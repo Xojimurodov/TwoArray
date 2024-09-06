@@ -1,0 +1,14 @@
+C:\Users\HP\Theme\IkktalikArray\bin\Debug\net8.0\IkktalikArray.exe
+C:\Users\HP\Theme\IkktalikArray\bin\Debug\net8.0\IkktalikArray.deps.json
+C:\Users\HP\Theme\IkktalikArray\bin\Debug\net8.0\IkktalikArray.runtimeconfig.json
+C:\Users\HP\Theme\IkktalikArray\bin\Debug\net8.0\IkktalikArray.dll
+C:\Users\HP\Theme\IkktalikArray\bin\Debug\net8.0\IkktalikArray.pdb
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.AssemblyInfoInputs.cache
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.AssemblyInfo.cs
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.dll
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\refint\IkktalikArray.dll
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.pdb
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\IkktalikArray.genruntimeconfig.cache
+C:\Users\HP\Theme\IkktalikArray\obj\Debug\net8.0\ref\IkktalikArray.dll
